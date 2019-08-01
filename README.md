@@ -1,6 +1,6 @@
-# FUChain FUChain Driver
+# FUChain Driver
 
-FUChain Driver for Javascript customized by FUChain, a simple module for scaffolding FUChain projects.
+FUChain Driver for Javascript from BigchainDB Driver customized by FUChain, a simple module for scaffolding FUChain projects.
 
 ## Installation and Usage
 
@@ -14,7 +14,7 @@ $ const driver = require('fuchain-js')
 $ import driver from 'fuchain-js'
 ```
 
-### Example: Create a transaction
+## Example: Create a transaction
 
 ```js
 const driver = require("fuchain-js");
