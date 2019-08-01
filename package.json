@@ -1,6 +1,6 @@
 {
   "name": "fuchain-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BigchainDB Driver for Javascript customized by FUChain",
   "main": "lib/index.js",
   "scripts": {
